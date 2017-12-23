@@ -17,11 +17,9 @@ Exercice : À l'aide de R, analyser les valeurs à la bourse des 10 dernières a
 ## Conclusions générales
 
 ![Valeurs boursières de l'Industrie du jeux vidéo 2007-2017](gaming-stockmarket-2007-2017.png)
-
 Figure 1. Valeurs boursières de l'Industrie du jeux vidéo 2007-2017
 
 ![Valeurs boursières des concepteurs de consoles de jeux 2007-2017](gaming-console-builders-2007-2017.png)
-
 Figure 2. Valeurs boursières des concepteurs de consoles de jeux 2007-2017
 
 * Au début de l'année 2008, Ubisoft est l'entreprise ayant le plus de valeur à la bourse. Cependant, le 14 novembre 2008, il perd la moitié de sa valeur boursière en une seule journée !
@@ -32,8 +30,8 @@ Figure 2. Valeurs boursières des concepteurs de consoles de jeux 2007-2017
 * Finalement, classé en ordre décroissant de valeur boursière en cette fin de 2017, nous obtenons : Electronic Arts, Microsoft, Ubisoft, Activision/Blizzard, Konami, Square Enix, Nintendo, Sony et Capcom. Capcom voit aussi une hausse ces derniers temps.
 
 * Spéculation pour l'avenir : Vu leurs atomes crochus, quand Ubisoft fusionnera-t-il avec ou acquéria-t-il Nintendo afin de tenter de détroner EA ?
-
 ![Ubisoft et Nintendo sont partenaires](ubisoft-nintendo-fusion2b.png)
+
 
 # Téléchargement
 
