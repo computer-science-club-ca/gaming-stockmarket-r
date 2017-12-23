@@ -33,6 +33,8 @@ Figure 2. Valeurs boursières des concepteurs de consoles de jeux 2007-2017
 
 * Spéculation pour l'avenir : Vu leurs atomes crochus, quand Ubisoft fusionnera-t-il avec ou acquéria-t-il Nintendo afin de tenter de détroner EA ?
 
+![Ubisoft et Nintendo sont partenaires](ubisoft-nintendo-fusion2b.png)
+
 # Téléchargement
 
 Vous pouvez téléchargez l'archives .zip du code ou bien utilisez git : $ git clone https://github.com/computer-science-club-ca/gaming-stockmarket-r.git
