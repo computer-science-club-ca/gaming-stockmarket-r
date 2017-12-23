@@ -29,7 +29,7 @@ Figure 2. Valeurs boursières des concepteurs de consoles de jeux 2007-2017
 * Point intéressant : à ce jour, Ubisoft a plus de valeur boursière que Nintendo ou Sony avec une différence d'environ 30$ l'action !
 * Finalement, classé en ordre décroissant de valeur boursière en cette fin de 2017, nous obtenons : Electronic Arts, Microsoft, Ubisoft, Activision/Blizzard, Konami, Square Enix, Nintendo, Sony et Capcom. Capcom voit aussi une hausse ces derniers temps.
 
-* Spéculation pour l'avenir : Vu leurs atomes crochus, quand Ubisoft fusionnera-t-il avec ou acquéria-t-il Nintendo afin de tenter de détroner EA ?
+* Spéculation pour l'avenir : Vu leurs atomes crochus, quand Ubisoft fusionnera-t-il avec ou acquerra-t-il Nintendo afin de tenter de détrôner EA ?
 ![Ubisoft et Nintendo sont partenaires](ubisoft-nintendo-fusion2b.png)
 
 
